@@ -1,2 +1,2 @@
 # Extracting-information-from-indeed
-Web scraping  Project to extract  information from indeed.
+Web scraping project to scrap out company details from indeed. In association with Bagcampus.
